@@ -1,3 +1,4 @@
+                                                             IMAGE RECOGNITION AND CLASSIFICATION 
 
 
 COCO Dataset to YOLO Format Conversion and Training with Ultralytics YOLOv8
